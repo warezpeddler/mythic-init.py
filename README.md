@@ -80,6 +80,12 @@ sudo ./mythic-init.py -i
 sudo ./mythic-init.py -c
 ```
 
+### Next steps
+- Configure a domain for your VPS
+- Configure TLS certs for domain and containers
+- Configure redirectors for C2 domain and any additional Opsec considerations
+- Strip IoC's from Mythic source code and rebuild
+
 ### Stock Agents and Profiles list and credits
 #### C2:
 - Mythic: https://github.com/its-a-feature/Mythic
