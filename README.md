@@ -6,7 +6,7 @@
 
 ## Prerequisites
 - A Debian or Ubuntu server/VPS
--Python interpreter (> =3.6) installed.
+- Python interpreter (> =3.6) installed.
 
 ## Getting Started
 
